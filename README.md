@@ -2,6 +2,14 @@
 
 Este repositório contém o código-fonte para o projeto dmd_tech, um site pessoal desenvolvido por David Mendes.
 
+##Visualização 
+![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/b440f86c-3dd2-4a85-bbe4-b76173a7665c)
+
+![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/2a3005a8-7c96-4c4d-8b8c-31a2c8cce60c)
+
+![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/4c9557f8-2d59-44eb-b933-558d309c5f1f)
+
+
 ## Descrição do Projeto
 
 O projeto dmd_tech é um site pessoal desenvolvido para explorar horizontes digitais. O site apresenta informações sobre as especialidades do desenvolvedor, sua história, projetos e oferece um formulário de contato para interação com os visitantes.
