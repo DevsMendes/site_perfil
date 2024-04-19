@@ -1,8 +1,27 @@
-# Projeto dmd_tech
+![**Projeto dmd_tech💻**](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Projeto%20dmd_tech💻&fontColor=black&fontAlign=50&animation=fadeIn&fontSize=40&textBg=false)
 
 Este repositório contém o código-fonte para o projeto dmd_tech, um site pessoal desenvolvido por David Mendes.
+----
 
-##Visualização 
+**🚀Tecnologias Utilizadas:**
+
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+
+**🌐link do Site:** [dmd_tech](https://devsmendes.github.io/site_perfil/).
+
+ 
+**Contato:**
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mendes-url)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pciabela@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_mendes__/?next=%2F)
+
+**💻Visualização:** 
+
 ![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/b440f86c-3dd2-4a85-bbe4-b76173a7665c)
 
 ![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/2a3005a8-7c96-4c4d-8b8c-31a2c8cce60c)
@@ -10,51 +29,6 @@ Este repositório contém o código-fonte para o projeto dmd_tech, um site pesso
 ![unnamed](https://github.com/DevsMendes/site_perfil/assets/91549193/4c9557f8-2d59-44eb-b933-558d309c5f1f)
 
 
-## Descrição do Projeto
-
-O projeto dmd_tech é um site pessoal desenvolvido para explorar horizontes digitais. O site apresenta informações sobre as especialidades do desenvolvedor, sua história, projetos e oferece um formulário de contato para interação com os visitantes.
-
-## Tecnologias Utilizadas
-
-O site foi desenvolvido utilizando as seguintes tecnologias:
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Estrutura do Projeto
-
-O projeto está estruturado da seguinte forma:
-
-- **index.html**: Arquivo principal do site.
-- **style.css**: Arquivo de folha de estilo para estilização do site.
-- **menu.js**: Script JavaScript para o menu móvel.
-- **imagens**: Diretório contendo as imagens utilizadas no site.
-
-## Visualização do Site
-
-Você pode visualizar o site através do seguinte link: [dmd_tech](https://devsmendes.github.io/site_perfil/).
-
-## Como Contribuir
-
-Se você deseja contribuir para o projeto, siga os passos abaixo:
-
-1. Faça um fork do repositório
-2. Clone o seu fork: `git clone https://github.com/seu_usuario/nome_do_repositorio.git`
-3. Crie uma branch para a sua feature: `git checkout -b minha-feature`
-4. Faça as alterações necessárias e adicione-as: `git add .`
-5. Faça um commit com suas alterações: `git commit -m 'Adicionando nova feature'`
-6. Faça um push para a sua branch: `git push origin minha-feature`
-7. Envie um pull request
-
-## Contato
-
-Para entrar em contato, utilize o formulário disponível no [site](https://devsmendes.github.io/site_perfil/) ou através dos seguintes meios:
-
-- Email: devsmendes@outlook.com
-- LinkedIn: [David Mendes](www.linkedin.com/in/david-mendes-url)
-- GitHub: [DevsMendes](https://github.com/DevsMendes)
-
 ---
 
-© 2024 David Mendes. Todos os direitos reservados.
+© 2024 David Mendes. 
